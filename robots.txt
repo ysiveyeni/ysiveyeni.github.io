@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ysiveyeni.github.io/ysiveyeni.ysiveyeni
+Sitemap: https://ysiveyeni.github.io/app/ysiveyeni.ysiveyeni
+Sitemap: https://ysiveyeni.github.io/assets/ysiveyeni.ysiveyeni
+Sitemap: https://ysiveyeni.github.io/css/ysiveyeni.ysiveyeni
+Sitemap: https://ysiveyeni.github.io/includes/ysiveyeni.ysiveyeni
+Sitemap: https://ysiveyeni.github.io/item/ysiveyeni.ysiveyeni
+Sitemap: https://ysiveyeni.github.io/src/ysiveyeni.ysiveyeni
